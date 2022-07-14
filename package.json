@@ -1,6 +1,6 @@
 {
   "name": "sh-react-button",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -8,6 +8,10 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivakantyuvasoft/react-package.git"
+},
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-react": "^7.18.6",
